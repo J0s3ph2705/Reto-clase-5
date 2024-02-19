@@ -1,6 +1,6 @@
 # Reto-clase-5
 
-#Números primos: Pseudocódigo
+# Números primos: Pseudocódigo y Algoritmo
 
 Datos:
  N: Entero
